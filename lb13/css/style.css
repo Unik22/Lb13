@@ -1,0 +1,44 @@
+h1{
+    padding: 2px;
+    text-align: left;
+    background-color:violet;
+}
+
+.img-dishes{
+    background-color: #00FF7F;
+    width: 35%;
+    height: 55%;
+    float: left;
+    border-radius: 20px 20px 0 0;
+    margin: 5px;
+}    
+
+.text-1{
+    background-color: orangered;
+    width: 12%;
+    height: 50%;
+    float: left;
+    border: 6px double Blue;
+    border-radius: 20px 20px 0 0;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+
+.text-2{
+    background-color: orangered;
+    width: 11%;
+    height: 100%;
+    float: left;
+    border: 6px double Blue;
+    border-radius: 20px 20px 0 0;
+    padding: 5px;
+    margin: 5px;
+}
+
+.text-3{
+    background-color: rgb(23, 152, 212);
+    padding: 5px;
+    clear: both;
+}
